@@ -666,7 +666,7 @@ export const commands = {
     "   Company: overlord.team",
     "   LinkedIn: https://www.linkedin.com/in/ramin-moradi-91992621a/",
     "   GitHub: github.com/moonshadowrev",
-    "   Portfolio: moonshadow.me",
+    "   Portfolio: moonshadowrev.me",
     "",
     "🌐 ONLINE PRESENCE:",
     "   Twitter: @moonshadowrev",
